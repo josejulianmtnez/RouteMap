@@ -1,13 +1,18 @@
 {
   "name": "routemap",
   "displayName": "RouteMap",
-  "description": "RouteMap is a powerful Laravel extension designed to help developers visualize and explore the full structure of their application's routes.",
+  "description": "Laravel RouteMap is a Visual Studio Code extension designed to help Laravel developers visualize their application routes in an interactive graph format. ",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.100.0"
   },
   "categories": [
-    "Other"
+      "Programming Languages",
+      "PHP",
+      "Linters",
+      "Visualization",
+      "Graphs",
+      "Laravel"
   ],
   "activationEvents": [],
   "main": "./dist/extension.js",
