@@ -19,6 +19,7 @@
       "Laravel"
   ],
   "license": "MIT",
+  "publisher": "JulianMartinez",
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
