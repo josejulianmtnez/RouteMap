@@ -18,6 +18,7 @@
       "Graphs",
       "Laravel"
   ],
+  "license": "MIT",
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
