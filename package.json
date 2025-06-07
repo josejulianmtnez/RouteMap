@@ -12,11 +12,8 @@
   },
   "categories": [
       "Programming Languages",
-      "PHP",
       "Linters",
-      "Visualization",
-      "Graphs",
-      "Laravel"
+      "Visualization"
   ],
   "license": "MIT",
   "publisher": "JulianMartinez",
