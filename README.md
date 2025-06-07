@@ -6,8 +6,6 @@ RouteMap es una extensión para Visual Studio Code que visualiza gráficamente l
 
 - 🎯 Vista en árbol interactiva de rutas y controladores
 - 🛡️ Visualización de middlewares por ruta
-- 🧪 Pruebas asociadas a rutas (si las detecta)
-- 📦 Exportación de grafo como PNG (pro)
 - 🌐 Filtrado por método HTTP, URI o middleware
 
 ## Comando
