@@ -1,8 +1,10 @@
-# Laravel RouteMap
+![routemap](https://github.com/user-attachments/assets/f6b7745a-6ade-4ad1-9b05-fcbd5221e4ea)
+
+# RouteMap
 
 ## Overview
 
-**Laravel RouteMap** is a Visual Studio Code extension designed to help Laravel developers visualize their application routes in an interactive graph format. This extension renders routes, their HTTP methods, URIs, controllers, middlewares, and relationships as a dynamic graph. This visualization makes understanding route flow, middleware application, and controller connections intuitive and efficient.
+**RouteMap** is a Visual Studio Code extension designed to help **Laravel** developers visualize their application routes in an interactive graph format. This extension renders routes, their HTTP methods, URIs, controllers, middlewares, and relationships as a dynamic graph. This visualization makes understanding route flow, middleware application, and controller connections intuitive and efficient.
 
 The extension supports filtering routes by URI patterns, enabling quick navigation and focused analysis of specific route groups.
 
@@ -19,33 +21,27 @@ The extension supports filtering routes by URI patterns, enabling quick navigati
 
 ---
 
+## Examples
+
+![image](https://github.com/user-attachments/assets/8ed79dcf-4c5a-443b-bae6-0cb2d6bf8746)
+
+![image](https://github.com/user-attachments/assets/39fce3c1-0b4f-448e-8198-201de388b384)
+
+---
+
 ## Installation
 
-You can install **Laravel RouteMap** via the VSIX package:
+You can install **RouteMap** in Visual Studio Code by either:
 
-1. Download the `.vsix` package file for Laravel RouteMap.
+- Downloading the .vsix package and installing it via the Extensions pane's "Install from VSIX..." option.
 
-2. Open Visual Studio Code.
-
-3. Open the Extensions view by pressing:
-
-    ```
-    Ctrl + Shift + X
-    ```
-
-4. Click on the three-dot menu icon (⋯) in the upper right corner of the Extensions pane.
-
-5. Select **Install from VSIX...** from the dropdown menu.
-
-6. Browse to the location of the `.vsix` file and select it.
-
-7. After installation, the extension will be available immediately.
+- Or more conveniently, by downloading it directly from the Visual Studio Code Marketplace.
 
 ---
 
 ## Usage
 
-1. Open a Laravel project folder in Visual Studio Code. This folder should contain the `artisan` file and the routes directory (e.g., `routes/web.php`).
+1. **Open a Laravel project folder in Visual Studio Code**. This folder should contain the `artisan` file and the routes directory (e.g., `routes/web.php`).
 
 2. Open the Command Palette by pressing:
 
@@ -56,7 +52,7 @@ You can install **Laravel RouteMap** via the VSIX package:
 3. Type the command:
 
     ```
-    Show Laravel RouteMap
+    Mostrar Rutas Laravel
     ```
 
 4. Select the command when it appears.
