@@ -42,7 +42,7 @@ You can install **RouteMap** in Visual Studio Code by either:
 3. Type the command:
 
     ```
-    Show Laravel RouteMap
+    Mostrar Rutas Laravel
     ```
 
 4. Select the command when it appears.
