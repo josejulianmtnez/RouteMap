@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.100.0"
   },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/josejulianmtnez/RouteMap.git"
+  },
   "categories": [
       "Programming Languages",
       "PHP",
