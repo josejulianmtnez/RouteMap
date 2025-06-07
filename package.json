@@ -24,7 +24,7 @@
     "commands": [
       {
         "command": "extension.showRoutes",
-        "title": "Mostrar Rutas Laravel"
+        "title": "Show Laravel Routes"
       }
     ]
   },
