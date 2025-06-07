@@ -21,25 +21,11 @@ The extension supports filtering routes by URI patterns, enabling quick navigati
 
 ## Installation
 
-You can install **Laravel RouteMap** via the VSIX package:
+You can install **RouteMap** in Visual Studio Code by either:
 
-1. Download the `.vsix` package file for Laravel RouteMap.
+- Downloading the .vsix package and installing it via the Extensions pane's "Install from VSIX..." option.
 
-2. Open Visual Studio Code.
-
-3. Open the Extensions view by pressing:
-
-    ```
-    Ctrl + Shift + X
-    ```
-
-4. Click on the three-dot menu icon (⋯) in the upper right corner of the Extensions pane.
-
-5. Select **Install from VSIX...** from the dropdown menu.
-
-6. Browse to the location of the `.vsix` file and select it.
-
-7. After installation, the extension will be available immediately.
+- Or more conveniently, by downloading it directly from the Visual Studio Code Marketplace.
 
 ---
 
