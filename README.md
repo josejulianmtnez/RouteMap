@@ -1,5 +1,7 @@
 # RouteMap
 
+![routemap](https://github.com/user-attachments/assets/f6b7745a-6ade-4ad1-9b05-fcbd5221e4ea)
+
 ## Overview
 
 **RouteMap** is a Visual Studio Code extension designed to help **Laravel** developers visualize their application routes in an interactive graph format. This extension renders routes, their HTTP methods, URIs, controllers, middlewares, and relationships as a dynamic graph. This visualization makes understanding route flow, middleware application, and controller connections intuitive and efficient.
