@@ -15,6 +15,7 @@
       "Linters",
       "Visualization"
   ],
+  "icon": "images/routemap.jpg",
   "license": "MIT",
   "publisher": "JulianMartinez",
   "activationEvents": [],
