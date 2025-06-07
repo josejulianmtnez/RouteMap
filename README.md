@@ -19,6 +19,14 @@ The extension supports filtering routes by URI patterns, enabling quick navigati
 
 ---
 
+## Examples
+
+![image](https://github.com/user-attachments/assets/8ed79dcf-4c5a-443b-bae6-0cb2d6bf8746)
+
+![image](https://github.com/user-attachments/assets/39fce3c1-0b4f-448e-8198-201de388b384)
+
+---
+
 ## Installation
 
 You can install **RouteMap** in Visual Studio Code by either:
@@ -31,7 +39,7 @@ You can install **RouteMap** in Visual Studio Code by either:
 
 ## Usage
 
-1. Open a Laravel project folder in Visual Studio Code. This folder should contain the `artisan` file and the routes directory (e.g., `routes/web.php`).
+1. **Open a Laravel project folder in Visual Studio Code**. This folder should contain the `artisan` file and the routes directory (e.g., `routes/web.php`).
 
 2. Open the Command Palette by pressing:
 
